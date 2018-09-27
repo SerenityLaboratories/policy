@@ -16,7 +16,7 @@ Content that is illegal in Finland or Germany is subject to suspensions. Indepen
 
 We have a zero-tolerance policy against bigoted behavior. This especially includes, but is not limited to racism, sexism, xenophobia, antisemitism, islamophobia, transphobia and ableism.
 
-Instances that do not moderate such content might be silenced or suspended, based on severity. Outright facism for instance will be silenced, while reactionary ideology will usually be silenced.
+Instances that do not moderate such content might be silenced or suspended, based on severity. Outright facism for instance will be suspended, while reactionary ideology will usually be silenced.
 
 ## Harassment
 
